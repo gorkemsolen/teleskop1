@@ -2,13 +2,15 @@
 
 #Purpose
 
-Help solving NY Times Crosswords Mini with Python
+To help solving NY Times Crosswords Mini with Python. 
+
+Clues are scraped from the game page and returned as data to be used. This data is an output to console and written to the JSON file which created by the program as organized.
 
 #Build up
 
 This project uses Selenium library and need ChromeDriver to run it (Has to be added to the path)
 
-To activate Selenium, user must ran "pip install selenium" command before running this project
+To activate Selenium, user must run "pip install selenium" command before running this project
 
 #Sample
 
