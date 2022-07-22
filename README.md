@@ -7,6 +7,7 @@ Help solving NY Times Crosswords Mini with Python
 #Build up
 
 This project uses Selenium library and need ChromeDriver to run it (Has to be added to the path)
+
 To activate Selenium, user must ran "pip install selenium" command before running this project
 
 #Sample
