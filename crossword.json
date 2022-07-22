@@ -1,0 +1,59 @@
+{
+    "clues": [
+        {
+            "group": " ",
+            "number": " ",
+            "string": " "
+        },
+        {
+            "group": "ACROSS",
+            "number": "1",
+            "string": "Pet that enjoys basking in a patch of sunlight"
+        },
+        {
+            "group": "ACROSS",
+            "number": "4",
+            "string": "Contented sounds from 1-Across"
+        },
+        {
+            "group": "ACROSS",
+            "number": "6",
+            "string": "Comic book installment"
+        },
+        {
+            "group": "ACROSS",
+            "number": "7",
+            "string": "Suddenly stop communicating, in dating lingo"
+        },
+        {
+            "group": "ACROSS",
+            "number": "8",
+            "string": "Electronica instrument"
+        },
+        {
+            "group": "DOWN",
+            "number": "1",
+            "string": "Undemanding, as a job"
+        },
+        {
+            "group": "DOWN",
+            "number": "2",
+            "string": "Fire-related crime"
+        },
+        {
+            "group": "DOWN",
+            "number": "3",
+            "string": "Have confidence in"
+        },
+        {
+            "group": "DOWN",
+            "number": "4",
+            "string": "Swine"
+        },
+        {
+            "group": "DOWN",
+            "number": "5",
+            "string": "\"Late Night With ___ Meyers\""
+        }
+    ]
+}
